@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my [CV here](/files/krish-kabra-cv.docx)
+Download a copy of my [CV here](https://drive.google.com/file/d/1rKqNxxojdiHVJ_tnLobpGojJbWroUdi7/view?usp=sharing)
 
 ## Education
 -----------------------
