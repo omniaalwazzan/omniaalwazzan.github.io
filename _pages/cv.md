@@ -40,13 +40,13 @@ May 2017 - March 2020
   
 ## Publications
 -----------------------
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
     
 ## Projects
 -----------------------
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -59,7 +59,7 @@ May 2017 - March 2020
 
 ## Teaching
 -----------------------
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
