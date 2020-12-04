@@ -38,6 +38,18 @@ May 2017 - March 2020
 * Conceptualized and conducted the world's first electron ghost imaging experiment, which utilized a computational imaging and compressive sensing framework 
 * Gained technical expertise with operating with ultrafast lasers, building table-top optics, and simulating experimental designs with MATLAB, Mathematica, and Zemax
   
+## Publications
+-----------------------
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+    
+## Projects
+-----------------------
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Skills
 -----------------------
 * Programming: MATLAB, Python (NumPy, SciPy, Matplotlib, Pandas, OpenCV, Tensorflow, Keras, PyTorch), C++, LaTeX
@@ -45,18 +57,12 @@ May 2017 - March 2020
 * Electronics: Arduino, Raspberry Pi, Analog & Digital Electronics, Oscilloscopes, Soldering
 * Optics: Ultra-fast lasers, Spatial Light Modulators (Texas Instruments DLP DMD, Thorlabs Exulus SLM), Cameras, Table-top prototyping 
 
-## Publications
------------------------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    
 ## Teaching
 -----------------------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 ## Service and leadership
 -----------------------
 **[Upsilon Lab](https://upsilonlab.org/)**, *President & Project Manager* <br>

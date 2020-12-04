@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
-    "\\assets\\fonts",
+    "\\assets",
     "\\_data",
     "\\_includes",
     "\\_pages",
     "\\_posts",
+    "\\_projects",
+    "\\_sass",
     "\\_talks",
     "\\_teaching"
   ],
-  "SelectedNode": "\\_pages\\cv.md",
+  "SelectedNode": "\\_includes\\archive-single.html",
   "PreviewInSolutionExplorer": false
 }
