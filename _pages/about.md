@@ -16,9 +16,8 @@ Presently, I am conducting research at the [Visual Machines Group](https://visua
 At VMG, my focus has been on developing remote vital sign monitoring technolgy for telemedicine application. Check out our most recent work on mitigating skin-tone bias for remote 
 heart rate estimation [here](/publication/2020-10-24-diverse-rppg). This research is being done in colloboration with [UCLA Health](https://www.uclahealth.org/). 
 
-I obtained my B.S. in Physics with Cum Laude in 2019. During this time, I conducted research in the [Department of Physics & Astronomy, UCLA](https://www.pa.ucla.edu/) under the supervision 
-of [Prof. Pietro Musumeci](https://www.pa.ucla.edu/faculty-websites/musumeci.html). My focus was on investigating laser shaping tools for ultrafast electron photoinjectors. Check out 
-our world's first demonstration of electron ghost imaging [here](/publication/2018-09-11-electron-ghost-imaging). 
+I obtained my B.S. in Physics with Cum Laude in 2019 from the [Department of Physics & Astronomy, UCLA](https://www.pa.ucla.edu/). During this time, I 
+conducted research under the supervision of [Prof. Pietro Musumeci](https://www.pa.ucla.edu/faculty-websites/musumeci.html). My focus was on investigating laser shaping tools for ultrafast electron photoinjectors. Check out our world's first demonstration of electron ghost imaging [here](/publication/2018-09-11-electron-ghost-imaging). 
 
 Beyond research and academia, I enjoy soccer (Chelsea F.C.), bouldering, video games, reading, and listening to music and podcasts. I also have a passion to teach and to share knowledge. I am 
 currently planning on starting a podcast in 2021 interviewing graduate students and their experiences. Please [email me](mailto:krish@kabra.com) if you're interested in sharing your story!
