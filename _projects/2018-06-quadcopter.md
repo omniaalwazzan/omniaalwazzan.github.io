@@ -10,7 +10,8 @@ paperurl: '/files/Physics_118_Final_Report.pdf'
 <strong>Krish Kabra</strong>, 
 Stefan Orosco<br>
 Course: Physics 118: Electronics for Physical Measurements <br>
-Instructor: Dr. Christian Schneider
+Instructor: Dr. Christian Schneider <br> 
+Quarter: Spring 2019
 
 <iframe src="https://drive.google.com/file/d/1vDQtSBIelMXmAa6NgTaqH6CGvTlrg2Ga/preview" width="640" height="480"></iframe>
 

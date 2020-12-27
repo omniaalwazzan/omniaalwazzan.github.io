@@ -2,17 +2,18 @@
 title: "Facial Feature Detection and Automatic Lip Reading"
 collection: projects
 excerpt: "A survey of facial feature detection methods and their application for automatic lip reading"
-imageurl: '/images/projects/CS269-overview.png'
+imageurl: '/images/projects/feature-net-arch.png'
 date: 2020-12-27
 paperurl: '/files/CS269-LipReading.pdf'
 github: https://github.com/krishk97/CS269-LipReading
 ---
 
 <strong>Krish Kabra</strong>, Calvin Chang, Amit Mondal and Satvik Anand <br>
-Course: CS 269 - Deformable Models in Computer Vision 
-Instructor: Prof. Demetri Terzopoulos
+Course: CS 269 - Deformable Models in Computer Vision <br>
+Instructor: Prof. Demetri Terzopoulos <br> 
+Quarter: Fall 2020
 
-<center><img src="/images/projects/CS269-overview.png"></center>
+<center><img src="/images/projects/cs269-overview.png"></center>
 
 ## Abstract 
 Facial feature detection (FFD) is an important task used

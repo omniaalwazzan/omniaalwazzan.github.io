@@ -12,7 +12,8 @@ github: 'https://github.com/krishk97/ECE-C247-EEG-GAN'
 [Daniel Truong](https://github.com/danthedolphin),
 [Calvin Chang](https://github.com/LemonCakeXD)<br>
 Course: ECE247: Neural Networks and Deep Learning <br>
-Instructor: Prof. Jonathan Kao
+Instructor: Prof. Jonathan Kao <br> 
+Quarter: Winter 2020
 
 <center><img src="/images/projects/WGAN-GP-results.png"></center>
 <i>Examples of generated continuous wavelet transformed EEG data for all 4 motor imagery 

@@ -8,8 +8,9 @@ paperurl: '/files/SloGAN.pdf'
 ---
 
 Aidan Cookson, <strong>Krish Kabra</strong>, and Auguste Hirth <br>
-Course: CS 263 - Natural Language Processing
-Instructor: Prof. Kai-Wei Chang
+Course: CS 263 - Natural Language Processing <br>
+Instructor: Prof. Kai-Wei Chang <br> 
+Quarter: Spring 2020
 
 <iframe width="1180" height="664" src="https://www.youtube.com/embed/6ge25s78bDc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
