@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Krish Kabra"
+title                    : "Abbas Khan"
 title_separator          : "-"
-name                     : &name "Krish Kabra"
+name                     : &name "Abbas Khan"
 description              : &description "M.S. in Electrical & Computer Engineering, UCLA, Expected 2021; B.S in Physics, UCLA, 2019; Ethnically Indian, born & raised in Kuwait"
 url                      : https://kabbas570.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krish Kabra"
+  name             : "Abbas Khan"
   avatar           : "profile2.jpg"
-  bio              : "M.S. in Electrical & Computer Engineering, UCLA, Expected 2021; B.S in Physics, UCLA, 2019; Ethnically Indian, born & raised in Kuwait"
-  location         : "Los Angeles, California"
+  bio              : "Master of Science in Electronics and Information Engineering"
+  location         : "Jeonbuk National University, Jeonju, Republic of Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=t0t59YwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=yrqICr8AAAAJ&hl=en"
   email            : "krish@kabra.com"
   researchgate     :  
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krishk97"
+  github           : "kabbas570"
   google_plus      :
   keybase          :
   instagram        : 
