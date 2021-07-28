@@ -2,7 +2,7 @@
 title: "PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation"
 collection: publications
 permalink: /publication/2020-10-24-diverse-rppg
-date: 2021-16-04
+date: 2021-04-16
 imageurl: '/images/publications/PMED.PNG'
 paperurl: '/files/Diverse-RPPG.pdf'
 link: 'https://ieeexplore.ieee.org/document/9399071'
