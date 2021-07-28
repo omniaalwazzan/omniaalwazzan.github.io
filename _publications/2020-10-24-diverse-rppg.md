@@ -1,13 +1,13 @@
 ---
-title: "Diverse R-PPG: Camera-Based Heart Rate Estimation for Diverse Subject Skin-Tones and Scenes"
+title: "PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation"
 collection: publications
 permalink: /publication/2020-10-24-diverse-rppg
-excerpt: "A novel algorithm to mitigate skin tone bias for remote heart rate estimation."
-date: 2020-10-24
+date: 2021-16-04
 imageurl: '/images/publications/diverse-rppg-video-demo.gif'
 paperurl: '/files/Diverse-RPPG.pdf'
-link: 'https://visual.ee.ucla.edu/diverse_rppg.htm'
-citation: 'P. Chari, <strong>K. Kabra</strong>, D. Karinca, S. Lahiri, D. Srivastava, K. Kulkarni, T. Chen, M. Cannesson, L. Jalilian, A. Kadambi (2020). &quot;Diverse R-PPG: Camera-Based Heart Rate Estimation for Diverse Subject Skin-Tones and Scenes.&quot; <i>arXiv preprint</i> arXiv:2010.12769.'
+link: 'https://ieeexplore.ieee.org/document/9399071'
+citation: 'A. Khan, H. Kim and L. Chua, "PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical
+Image Segmentation," in IEEE Access, doi: 10.1109/ACCESS.2021.3071754'
 ---
 
 Pradyumna Chari<sup>1</sup>, <strong>Krish Kabra<sup>1</sup></strong>, Doruk Karinca<sup>1</sup>, Soumyarup Lahiri<sup>1</sup>, Diplav Srivastava<sup>1</sup>, Kimaya Kulkarni<sup>1</sup>, Tianyuan Chen<sup>1</sup>, Maxime Cannesson<sup>2</sup>, Laleh Jalilian<sup>2</sup>, Achuta Kadambi<sup>1,3,*</sup>
@@ -24,23 +24,15 @@ The plots show low pass filtered versions (containing the first and second harmo
 waveforms to visualize the similarity.</i>
 
 ## Abstract
-Heart rate (HR) is an essential clinical measure for the assessment of cardiorespiratory instability. Since communities of color are disproportionately affected by 
-both COVID-19 and cardiovascular disease, there is a pressing need to deploy contactless HR sensing solutions for high-quality telemedicine evaluations. Existing
-computer vision methods that estimate HR from facial videos exhibit biased performance against dark skin tones. We present a novel physics-driven algorithm that 
-boosts performance on darker skin tones in our reported data. We assess the performance of our method through the creation of the first telemedicine-focused remote 
-vital signs dataset, the VITAL dataset. 432 videos (~864 minutes) of 54 subjects with diverse skin tones are recorded under realistic scene conditions with 
-corresponding vital sign data. Our method reduces errors due to lighting changes, shadows, and specular highlights and imparts unbiased performance gains across 
-skin tones, setting the stage for making medically inclusive non-contact HR sensing technologies a viable reality for patients of all skin tones.
+A pyramidical multi-scale encoder-decoder network, namely PMED-Net, is proposed for medical image segmentation. Different variants of encoder-decoder networks are in practice for segmenting the medical images and U-Net is the most widely used one. However, the existing architectures for segmenting medical images have millions of parameters that require enormous computations which results in memory and cost-inefficiency. To overcome such limitations, we come up with the idea of training small networks in a cascaded form for coarse-to-fine prediction. The proposed adaptive network is extended up to six pyramid levels, and at each level, features are extracted at different scales of the input image. Each lightweight encoder-decoder network is trained independently to minimize loss, where succeeding level networks further refine the prior predictions. Evaluation and comparison of our architecture were performed on four different publicly available medical image segmentation datasets: International Skin Imaging Collaboration
+(ISIC) challenge 2018 dataset, brain tumor dataset, nuclei dataset, and X-ray dataset. The experimental results of the PMED-Net are either better or on par with other state-of-the-art networks in terms of IoU, F1-Score, and sensitivity metrics. Moreover, PMED-Net is efficient in terms of parameterized complexity as it has 1/21.3, 1/21.1, 1/14.0, 1/11.6, 1/11.2, 1/6.64, and 1/4.95 times fewer parameters than SegNet, U-Net, BCDU-Net, CU-Net, FCN-8s, ORED-Net, and MultiResUNet respectively.
 
 ## Files
 - [Paper](/files//files/Diverse-RPPG.pdf)
 
 ## Citation
 @inproceedings{chari2020-diverse-rppg,<br>
-    title={Diverse R-PPG: Camera-Based Heart Rate Estimation for Diverse Subject Skin-Tones and Scenes}, <br>
-    author={Pradyumna Chari and Krish Kabra and Doruk Karinca and Soumyarup Lahiri and Diplav Srivastava and Kimaya Kulkarni and Tianyuan Chen and Maxime Cannesson and Laleh Jalilian and Achuta Kadambi},<br>
-    year={2020},<br>
-    eprint={2010.12769},<br>
-    archivePrefix={arXiv},<br>
-    primaryClass={eess.IV}<br>
+    title={PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation}, <br>
+    author={A. Khan, H. Kim and L. Chua},<br>
+    year={2021},<br>
 }
