@@ -83,11 +83,11 @@ author:
   name             : "Abbas Khan"
   avatar           : "profile2.jpg"
   bio              : "Master of Science in Electronics and Information Engineering"
-  location         : "Jeonbuk National University, Jeonju, Republic of Korea"
+  location         : "Jeonbuk National University, Jeonju"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yrqICr8AAAAJ&hl=en"
-  email            : "krish@kabra.com"
+  email            : "kabbas570@jbnu.ac.kr"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "krish-kabra"
-  orcid            : "https://orcid.org/0000-0003-1518-268X"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0002-2120-4729"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: 
     values:
       layout: single
       author_profile: true
