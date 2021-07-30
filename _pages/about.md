@@ -13,7 +13,7 @@ My primary research mission is to solve various vision problems like Segmentatio
 
 Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
 
-I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, Pakistan](https://www.bahria.edu.pk/)(2014-2018 batch). 
+I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018 batch). 
 
 During this period I won the following Internships and Scholarships Awards.
 
