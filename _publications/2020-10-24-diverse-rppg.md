@@ -5,7 +5,7 @@ permalink: /publication/2020-10-24-diverse-rppg
 date: 2021-04-16
 imageurl: '/images/publications/PMED.PNG'
 paperurl: '/files/Diverse-RPPG.pdf'
-link: 'https://ieeexplore.ieee.org/document/9399071'
+link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
 
 citation: 'S. Li, F. Cropp, <strong>K. Kabra</strong>, PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation; <i>IEEE Access ,2021</i>(11). doi:10.1109/ACCESS.2021.3071754'
 ---
