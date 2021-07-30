@@ -3,24 +3,12 @@ title: "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder D
 collection: publications
 permalink: /publication/2018-09-11-electron-ghost-imaging
 excerpt: "Autonomous harvesters and Strawberry Segmentation."
-date: 2021-08-04
-venue: 'Frontiers in Plant Science'
-imageurl: '/images/publications/DAM.PNG'
-paperurl: '/files/PMED-Net.pdf'
-link: 'https://doi.org/10.3389/fpls.2021.591333'
-citation: Ilyas T, Umraiz M, '<strong>Khan. A</strong>,H. Kim. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.3389/fpls.2021.591333'
----
----
-title: "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation"
-collection: publications
-permalink: /publication/2018-09-11-electron-ghost-imaging
-excerpt: "Autonomous harvesters and Strawberry Segmentation."
 date: 2021-09-11
 venue: 'MDPI Electronics'
 imageurl: '/images/publications/DAM.png'
 paperurl: '/files/electron-ghost-imaging.pdf'
 link: 'https://doi.org/10.3389/fpls.2021.591333'
-citation: 'Ilyas T, Umraiz M, '<strong>Khan. A</strong>,H. Kim. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.3389/fpls.2021.591333'
+citation: 'Ilyas T, Umraiz M, '<strong>Khan. A</strong>,H. Kim. &quot;DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.3389/fpls.2021.591333'
 ---
 
 ## Abstract
