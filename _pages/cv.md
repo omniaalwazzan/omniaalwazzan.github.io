@@ -18,7 +18,7 @@ Jeonbuk National University, Jeonju, Republic of Korea<br>
 2019-2021<br>
 CGPA: 4.00/4.00<br>
 
-**Bachelor of Science in Electrical and Electronics Engineering**,
+**Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
 CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
