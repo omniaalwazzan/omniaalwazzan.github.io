@@ -13,13 +13,15 @@ Download a copy of my [CV here](https://drive.google.com/file/d/15HzuBRJbI5DSM9C
 
 ## Education
 -----------------------
-**Master of Science in Electronics and Information Engineering **, *Jeonbuk National University, Jeonju, Republic of Korea * <br>
- 2021 
-* GPA: 4.00/4.00
-* 
-**Bachelor of Science in Electrical Engineering**, *Bahria University Islamabad, Pakistan * <br>
-2018
-* GPA: 3.90/4.00, *Magna Cum Laude Award*
+**Master of Science in Electronics and Information Engineering**,<br>
+Jeonbuk National University, Jeonju, Republic of Korea<br>
+2021 <br>
+GPA: 4.00/4.00<br>
+
+**Bachelor of Science in Electrical and Electronics Engineering**,
+Bahria University Islamabad, Pakistan  <br>
+2018<br>
+* GPA: 3.90/4.00,   Magna Cum Laude Award <br>
 
 ## Current Position
 -----------------------
