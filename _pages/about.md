@@ -26,6 +26,11 @@ During this period I won the following Internships and Scholarships Awards.
 
 [National Institute of Electronics – Islamabad, Pakistan, Internee](http://www.nie.gov.pk/)
 
+[Brain Korea 21 Scholarship Award](https://int.korea.edu/kuis/grad/bk21.do)
+
+[Bahria University Advanced Merit Scholarship Award](https://www.bahria.edu.pk/buic/ees/scholarships/)
+
+
 
 ## Funding
 My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
