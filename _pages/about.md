@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Master's Degree in Electronics and Information from [Engineering from Jeonbuk National University, Jeonju, Republic of Korea,JBNU](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
+I recently completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University, Jeonju, Republic of Korea, (JBNU)](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
 My primary research mission is to solve various vision problems like Segmentation, Detection, Depth Estimation, and Classification. Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
+## Funding
 My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
 
 I obtained my B.S. in Physics with Cum Laude in 2019 from the [Department of Physics & Astronomy, UCLA](https://www.pa.ucla.edu/). During this time, I 
