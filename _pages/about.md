@@ -13,8 +13,12 @@ My primary research mission is to solve various vision problems like Segmentatio
 
 Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
 
-I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, Pakistan](https://www.bahria.edu.pk/)(2014-2018 batch).
- 
+I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, Pakistan](https://www.bahria.edu.pk/)(2014-2018 batch). 
+
+During this period I won the following Internships and Scholarships Awards.
+[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018] (https://home.cern/summer-student-programme)
+[Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
+[National Institute of Electronics – Islamabad, Pakistan, Internee](http://www.nie.gov.pk/)
 ## Funding
 My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
 
