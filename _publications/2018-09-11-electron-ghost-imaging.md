@@ -8,7 +8,7 @@ venue: 'Physical Review Letters'
 imageurl: '/images/publications/egi-thumb.png'
 paperurl: '/files/electron-ghost-imaging.pdf'
 link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
-citation: 'S. Li, F. Cropp, <strong>K. Kabra</strong>, Thomas J. Lane, G. Wetzstein, P. Musumeci, and D. Ratner (2018). &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i>Physical Review Letters, 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
+citation: 'S. Li, F. Cropp, <strong>K. Kabra</strong>, Thomas J. Lane, G. Wetzstein, P. Musumeci, and D. Ratner (2018). &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i>Physical Review NOT Letters, 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
 ---
 
 Siqi Li<sup>1,*</sup>, Fredrick Cropp<sup>2</sup>, <strong>Krish Kabra<sup>2</sup></strong>, Thomas J. Lane<sup>1</sup>, Gordon Wetzstein<sup>3</sup>, Pietro Musumeci<sup>2</sup>, Daniel Ratner<sup>1,+</sup>
