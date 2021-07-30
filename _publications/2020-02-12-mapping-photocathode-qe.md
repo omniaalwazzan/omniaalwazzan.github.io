@@ -6,7 +6,7 @@ date: 2021-02-22
 venue: 'Physical Review Accelerators and Beams'
 imageurl: '/images/publications/map-QE-egi-thumb.png'
 paperurl: '/files/mapping-photocathode-QE.pdf'
-link: 'https://doi.org/10.1103/PhysRevAccelBeams.23.022803'
+link: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full'
 citation: '<strong>K. Kabra</strong>, S. Li, F. Cropp, Thomas J. Lane, P. Musumeci, and D. Ratner (2020). &quot;Mapping photocathode quantum efficiency with ghost imaging.&quot; <i>Phys. Rev. Accel. Beams, 23</i>, 022803. doi:10.1103/PhysRevAccelBeams.23.022803'
 ---
 
