@@ -15,7 +15,6 @@ github: https://github.com/kabbas570/Data-Science-Challenge-
 This IoS application classifies singing vs speaking vs silence of the last 2 seconds based on 
 microphone sensor data. It utilizes a deep learning based CNN model.
 
-In case you accept this challenge, provide us with a small set of slides describing your approach, the commented source code and a compiled .apk supporting Android 6.0+.
-
+A more advanced version of this project is in progress, where the aim is to use Mobile Deep Learning for Plant/ Weed Recognition and their diseases in the remote areas.
 ## Files
 - [Github]( https://github.com/kabbas570/Data-Science-Challenge-)
