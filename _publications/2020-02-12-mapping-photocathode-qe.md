@@ -7,7 +7,8 @@ venue: 'Physical Review Accelerators and Beams'
 imageurl: '/images/publications/map-QE-egi-thumb.png'
 paperurl: '/files/mapping-photocathode-QE.pdf'
 link: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full'
-citation: '<strong>K. Kabra</strong>, S. Li, F. Cropp, Thomas J. Lane, P. Musumeci, and D. Ratner (2020). &quot;Mapping photocathode quantum efficiency with ghost imaging.&quot; <i>Phys. Rev. Accel. Beams, 23</i>, 022803. doi:10.1103/PhysRevAccelBeams.23.022803'
+citation: '<strong>K. Kabra</strong>, Ilyas T, Umraiz M, Khan A, Kim H. "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder
+Decoder Network for Strawberry Segmentation", Frontiers in Plant Science. 2021; 12:189.
 ---
 
 <strong>Krish Kabra<sup>1,2,*</sup></strong>, Siqi Li<sup>3,+</sup>, Fredrick Cropp<sup>1</sup>, Thomas J. Lane<sup>3</sup>, Pietro Musumeci<sup>1</sup>, Daniel Ratner<sup>3</sup>
