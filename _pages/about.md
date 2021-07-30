@@ -18,7 +18,7 @@ I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum 
 During this period I won the following Internships and Scholarships Awards.
 
 
-[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018] (https://home.cern/summer-student-programme)
+[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
 
 
 [Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
