@@ -7,8 +7,8 @@ date: 2021-08-04
 venue: 'IEEE Access'
 imageurl: '/images/publications/PMED.PNG'
 paperurl: '/files/PMED-Net.pdf'
-link: 'https://doi.org/10.3389/fpls.2021.591333'
-citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.3389/fpls.2021.591333'
+link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
+citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.1109/ACCESS.2021.3071754'
 ---
 
 
