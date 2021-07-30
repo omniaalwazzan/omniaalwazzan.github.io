@@ -7,7 +7,7 @@ date: 2020-12-27
 github: https://github.com/kabbas570/Data-Science-Challenge-
 ---
 
-<center><img src="/images/projects/project1.png"></center>
+<center><img src="/images/projects/project1.PNG"></center>
 
 ## Abstract 
 This IoS application classifies singing vs speaking vs silence of the last 2 seconds based on 
