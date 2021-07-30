@@ -12,7 +12,7 @@ citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid 
 ---
 
 
-<center><img src = '/images/publications/PMED.png'></center>
+<center><img src = '/images/publications/PMED.PNG'></center>
 
 ## Abstract
 A pyramidical multi-scale encoder-decoder network, namely PMED-Net, is proposed for medical image segmentation. Different variants of encoder-decoder networks are in practice for segmenting the medical images and U-Net is the most widely used one. However, the existing architectures for segmenting medical images have millions of parameters that require enormous computations which results in memory and cost-inefficiency. To overcome such limitations, we come up with the idea of training small networks in
