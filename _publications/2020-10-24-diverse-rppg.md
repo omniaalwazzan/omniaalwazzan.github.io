@@ -5,10 +5,10 @@ permalink: /publication/2018-09-11-electron-ghost-imaging
 excerpt: "Medical Image Segmentation."
 date: 2021-08-04
 venue: 'IEEE Access '
-imageurl: '/images/publications/egi-thumb.png'
-paperurl: '/files/electron-ghost-imaging.pdf'
+imageurl: '/images/publications/PMED.PNG'
+paperurl: '/files/PMED-Net.pdf'
 link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
-citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
+citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 2021</i>(9). doi:10.1109/ACCESS.2021.3071754'
 ---
 
 ## Abstract
