@@ -1,15 +1,14 @@
 ---
-title: "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation"
+title: "CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture"
 collection: publications
-permalink: /publication/2020-02-12-mapping-photocathode-qe
-date: 2021-02-22
-venue: 'Physical Review Accelerators and Beams'
-imageurl: '/images/publications/map-QE-egi-thumb.png'
-paperurl: '/files/mapping-photocathode-QE.pdf'
-link: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full'
-citation: '<strong>K. Kabra</strong>, Ilyas T, Umraiz M, Khan A, Kim H. "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder
-Decoder Network for Strawberry Segmentation", Frontiers in Plant Science. 2021; 12:189.
-
+permalink: /publication/2018-09-11-electron-ghost-imaging
+excerpt: " Identify the precise location of weeds and crops on farmland"
+date: 2021-08-04
+venue: 'Frontiers in Plant Science'
+imageurl: '/images/publications/CED.PNG'
+paperurl: '/files/PMED-Net.pdf'
+link: 'https://doi.org/10.3389/fpls.2021.591333'
+citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture.&quot; <i> IEEE Access , 2021</i>(9). doi:10.3389/fpls.2021.591333'
 ---
 
 <strong>Krish Kabra<sup>1,2,*</sup></strong>, Siqi Li<sup>3,+</sup>, Fredrick Cropp<sup>1</sup>, Thomas J. Lane<sup>3</sup>, Pietro Musumeci<sup>1</sup>, Daniel Ratner<sup>3</sup>
