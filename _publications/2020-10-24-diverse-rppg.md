@@ -8,7 +8,7 @@ venue: 'IEEE Access '
 imageurl: '/images/publications/egi-thumb.png'
 paperurl: '/files/electron-ghost-imaging.pdf'
 link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
-citation: 'S. Li, F. Cropp, <strong>K. Kabra</strong>, Thomas J. Lane, G. Wetzstein, P. Musumeci, and D. Ratner (2018). &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
+citation: '<strong>Khan. A</strong>,H. Kim and L. Chua. &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i> IEEE Access , 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
 ---
 
 ## Abstract
