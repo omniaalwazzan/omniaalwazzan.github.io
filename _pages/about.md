@@ -17,9 +17,9 @@ I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum 
 
 During this period I won the following Internships and Scholarships Awards.
 
-[Brain Korea 21 Scholarship Award](https://int.korea.edu/kuis/grad/bk21.do)
+[Brain Korea 21 Scholarship](https://int.korea.edu/kuis/grad/bk21.do)
 
-[Bahria University Advanced Merit Scholarship Award](https://www.bahria.edu.pk/buic/ees/scholarships/)
+[Bahria University Advanced Merit Scholarship](https://www.bahria.edu.pk/buic/ees/scholarships/)
 
 [CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
 
