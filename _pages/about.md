@@ -9,15 +9,19 @@ redirect_from:
 ---
 
 I recently completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University, Jeonju, Republic of Korea, (JBNU)](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
-My primary research mission is to solve various vision problems like Segmentation, Detection, Depth Estimation, and Classification. Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
-## Funding
-My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
+My primary research mission is to solve various vision problems like Segmentation, Detection, Depth Estimation, and Classification. 
 
+Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
+
+I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude <b> from [Bahria University Islamabad, Pakistan](https://www.bahria.edu.pk/)(2014-2018 batch).
 I obtained my B.S. in Physics with Cum Laude in 2019 from the [Department of Physics & Astronomy, UCLA](https://www.pa.ucla.edu/). During this time, I 
 conducted research under the supervision of [Prof. Pietro Musumeci](https://www.pa.ucla.edu/faculty-websites/musumeci.html). My focus was on investigating laser shaping tools for ultrafast electron photoinjectors. Check out our world's first demonstration of electron ghost imaging [here](/publication/2018-09-11-electron-ghost-imaging). 
 
-Beyond research and academia, I enjoy soccer (Chelsea F.C. fan), bouldering, video games, reading, and listening to music and podcasts. I also have a passion to teach and to share knowledge. I am 
-currently planning on starting a podcast in 2021 interviewing graduate students and their experiences. Please [email me](mailto:krish@kabra.com) if you're interested in sharing your story!
+
+## Funding
+My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
+
+
 
 ## Updates
 * Pre-print now available for *Diverse RPPG: Camera-based Heart Rate Estimation for Diverse Subject Skin Tones and Scenes* on arXiv <br> 
