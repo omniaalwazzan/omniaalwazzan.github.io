@@ -17,18 +17,16 @@ I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum 
 
 During this period I won the following Internships and Scholarships Awards.
 
-
-[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
-
-
-[Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
-
-
-[National Institute of Electronics – Islamabad, Pakistan, Internee](http://www.nie.gov.pk/)
-
 [Brain Korea 21 Scholarship Award](https://int.korea.edu/kuis/grad/bk21.do)
 
 [Bahria University Advanced Merit Scholarship Award](https://www.bahria.edu.pk/buic/ees/scholarships/)
+
+[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
+
+[Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
+
+[National Institute of Electronics – Islamabad, Pakistan, Internee](http://www.nie.gov.pk/)
+
 
 
 
