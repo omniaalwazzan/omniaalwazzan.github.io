@@ -1,9 +1,8 @@
 ---
-title: "Mapping photocathode quantum efficiency with ghost imaging"
+title: "DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation"
 collection: publications
 permalink: /publication/2020-02-12-mapping-photocathode-qe
-excerpt: "A ghost imaging framework for measuring the photocathode quantum efficiency map."
-date: 2020-02-12
+date: 2021-02-22
 venue: 'Physical Review Accelerators and Beams'
 imageurl: '/images/publications/map-QE-egi-thumb.png'
 paperurl: '/files/mapping-photocathode-QE.pdf'
