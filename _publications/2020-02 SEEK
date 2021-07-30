@@ -1,14 +1,15 @@
 ---
-title: "Electron Ghost Imaging"
+title: "SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation"
 collection: publications
 permalink: /publication/2018-09-11-electron-ghost-imaging
-excerpt: "The world's first demonstration of electron ghost imaging."
+excerpt: "Unsupervised Segmentation"
 date: 2018-09-11
-venue: 'Physical Review Letters'
-imageurl: '/images/publications/egi-thumb.png'
+venue: 'MDPI Electronics'
+imageurl: '/images/publications/SEEK.png'
 paperurl: '/files/electron-ghost-imaging.pdf'
-link: 'https://doi.org/10.1109/ACCESS.2021.3071754'
-citation: 'S. Li, F. Cropp, <strong>K. Kabra</strong>, Thomas J. Lane, G. Wetzstein, P. Musumeci, and D. Ratner (2018). &quot;PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical Image Segmentation.&quot; <i>Physical Review NOT Letters, 121</i>(11). doi:10.1109/ACCESS.2021.3071754'
+link: 'https://doi.org/10.3390/electronics9030383'
+citation: 'Ilyas, T.;. <strong>Khan. A. Kabra</strong>, Thomas J. ; Umraiz, M.; Kim,, (2020). &quot;SEEK: A Framework of Superpixel Learning with
+CNN Features for Unsupervised Segmentation.&quot; <i>Physical Review NOT Letters, 121</i>(11). doi:10.3390/electronics9030383'
 ---
 
 Siqi Li<sup>1,*</sup>, Fredrick Cropp<sup>2</sup>, <strong>Krish Kabra<sup>2</sup></strong>, Thomas J. Lane<sup>1</sup>, Gordon Wetzstein<sup>3</sup>, Pietro Musumeci<sup>2</sup>, Daniel Ratner<sup>1,+</sup>
