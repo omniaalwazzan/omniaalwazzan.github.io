@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in the [Department of Electrical & Computer Engineering, UCLA](https://www.ee.ucla.edu/) with passion to research, innovate and create.
-My primary research mission is to develop visual machines with exceptional sensing acuity and intelligence, with a specific interest in digital health and biomedical applications. 
-I investigate topics in computer vision, computational imaging, optics & photonics, signal processing, machine learning, and artificial intelligence. 
-
-Presently, I am conducting research at the [Visual Machines Group](https://visual.ee.ucla.edu/) (VMG) advised by [Prof. Achuta Kamdabi](https://www.ee.ucla.edu/achuta-kadambi/). 
-At VMG, my focus has been on developing remote vital sign monitoring technolgy for telemedicine application. Check out our most recent work on mitigating skin-tone bias for remote 
-heart rate estimation [here](/publication/2020-10-24-diverse-rppg). This research is being done in colloboration with [UCLA Health](https://www.uclahealth.org/). 
+I recently completed my Master's Degree in Electronics and Information from [Engineering from Jeonbuk National University, Jeonju, Republic of Korea,JBNU](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
+My primary research mission is to solve various vision problems like Segmentation, Detection, Depth Estimation, and Classification. Moreover, I also investigates topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
+My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
 
 I obtained my B.S. in Physics with Cum Laude in 2019 from the [Department of Physics & Astronomy, UCLA](https://www.pa.ucla.edu/). During this time, I 
 conducted research under the supervision of [Prof. Pietro Musumeci](https://www.pa.ucla.edu/faculty-websites/musumeci.html). My focus was on investigating laser shaping tools for ultrafast electron photoinjectors. Check out our world's first demonstration of electron ghost imaging [here](/publication/2018-09-11-electron-ghost-imaging). 
