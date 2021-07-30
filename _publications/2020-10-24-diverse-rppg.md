@@ -3,7 +3,7 @@ title: "PMED-Net: Pyramid Based Multi-Scale Encoder-Decoder Network for Medical 
 collection: publications
 permalink: /publication/2018-09-11-electron-ghost-imaging
 excerpt: "Medical Image Segmentation."
-date: 2012-08-04
+date: 2021-08-04
 venue: 'IEEE Access '
 imageurl: '/images/publications/egi-thumb.png'
 paperurl: '/files/electron-ghost-imaging.pdf'
