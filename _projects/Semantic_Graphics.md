@@ -2,7 +2,7 @@
 title: "The paddy and Millet weeds Identification using Semantic Graphics"
 collection: projects
 excerpt: "The semantic graphics is the idea of labeling an area of interest with minimum human labor "
-imageurl: '/images/projects/project1.PNG'
+imageurl: '/images/projects/P2_1.PNG'
 date: 2021-07-30
 ---
 <center><img src="/images/projects/P2_1.PNG"></center>
