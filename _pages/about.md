@@ -34,10 +34,15 @@ During this period I won the following Scholarships and Internships Awards.
 My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
 
 
-
+imageurl: '/images/projects/class.PNG'
 ## Updates
-* Pre-print now available for *Diverse RPPG: Camera-based Heart Rate Estimation for Diverse Subject Skin Tones and Scenes* on arXiv <br> 
-Links: [Paper](https://arxiv.org/abs/2010.12769), [Webpage](https://visual.ee.ucla.edu/diverse_rppg.htm)
+* Re-arragning my master's dissertation to be published in an SCIE Journal soon.
+* The following paper is in review process,
+* 
+* Ilyas T, Mannan Z, Khan A; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
+Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
+*Waiting for my gradation ceremony to be held on 20th August.
+<center><img src="/images/projects/class.PNG"></center>
 * Website up and running! 
 
 -------------------------
