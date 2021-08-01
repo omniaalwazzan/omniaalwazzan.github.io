@@ -1,5 +1,5 @@
 ---
-title: "2021-Deep Learning based Android Voice Classifier"
+title: "Deep learning For Mobile Devices"
 collection: projects
 excerpt: "A survey of facial feature detection methods and their application for automatic lip reading"
 imageurl: '/images/projects/project1.PNG'
