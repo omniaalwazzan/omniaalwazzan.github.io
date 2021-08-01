@@ -34,7 +34,6 @@ During this period I won the following Scholarships and Internships Awards.
 My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
 
 
-imageurl: '/images/projects/class.PNG'
 ## Updates
 * Re-arragning my master's dissertation to be published in an SCIE Journal soon.
 * The following paper is in review process,
