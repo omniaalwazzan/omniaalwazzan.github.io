@@ -38,12 +38,10 @@ imageurl: '/images/projects/class.PNG'
 ## Updates
 * Re-arragning my master's dissertation to be published in an SCIE Journal soon.
 * The following paper is in review process,
-* 
 * Ilyas T, Mannan Z, Khan A; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
 Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
-*Waiting for my gradation ceremony to be held on 20th August.
+* Waiting for my gradation ceremony to be held on 20th August.
 <center><img src="/images/projects/class.PNG"></center>
-* Website up and running! 
 
 -------------------------
 
