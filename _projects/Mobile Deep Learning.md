@@ -16,7 +16,7 @@ This IoS application classifies singing vs speaking vs silence of the last 2 sec
 microphone sensor data. It utilizes a deep learning based CNN model.
 
 A more advanced version of this project is in progress, where the aim is to use Mobile Deep Learning for Plant/ Weed Recognition and their diseases in the remote areas.
-<center><img src="/images/projects/p1_2.PNG"></center>
+<center><img src="/images/projects/p1_3.PNG"></center>
 
 ## Files
 - [Github]( https://github.com/kabbas570/Data-Science-Challenge-)
