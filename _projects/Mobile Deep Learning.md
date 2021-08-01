@@ -1,7 +1,7 @@
 ---
 title: "Deep learning For Mobile Devices"
 collection: projects
-excerpt: "A survey of facial feature detection methods and their application for automatic lip reading"
+excerpt: "Implementation of Deep learning based models for android/IoS devces using TensorFlowLite/CoreML Frameworks "
 imageurl: '/images/projects/project1.PNG'
 date: 2021-07-30
 github: https://github.com/kabbas570/Data-Science-Challenge-
