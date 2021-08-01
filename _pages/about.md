@@ -40,7 +40,7 @@ imageurl: '/images/projects/class.PNG'
 * The following paper is in review process,
 * Ilyas T, Mannan Z, Khan A; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
 Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
-* Waiting for my gradation ceremony to be held on 20th August.
+* Waiting for my gradation ceremony (20-08-2021).
 <center><img src="/images/projects/class.PNG"></center>
 
 -------------------------
