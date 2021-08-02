@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Recently, I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
+
 I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018 batch). 
 
 ## Research Interests
