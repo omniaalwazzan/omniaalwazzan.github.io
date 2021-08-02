@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I recently completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
-My primary research mission is to solve various vision problems like Segmentation, Detection, Depth Estimation, and Classification. 
+My primary research mission is to solve vision based problems like Segmentation, Detection, Depth Estimation, and Classification. 
 
 Moreover, I also investigate topics related to Deep learning on Mobile Devices, BioInformatics, Optical Flow and Signal Processing.
 
