@@ -20,7 +20,7 @@ Moreover, I also investigate topics related to Deep learning on Mobile Devices, 
 
 During this period I won the following Awards, Scholarships and Internships.
 
-[Silver Medal, Bahria University Islamabad, Pakistan.]
+[Silver Medal, Bahria University Islamabad, Pakistan.](/files/Certificate_of_Excellence.pdf)
 
 [Brain Korea (BK21) Scholarship](https://int.korea.edu/kuis/grad/bk21.do)
 
