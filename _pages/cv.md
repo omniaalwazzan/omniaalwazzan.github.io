@@ -41,6 +41,6 @@ parameterized complexity and inference time of the algorithms.
 
 ## Skills
 -----------------------
-* Programming: MATLAB, Python (NumPy, SciPy, Matplotlib, Pandas, OpenCV, Tensorflow, Keras, PyTorch), C++, C, FPGA
-* Electronics: Arduino, Raspberry Pi, Analog & Digital Electronics, Oscilloscopes, Soldering
+* Programming: MATLAB, Python (NumPy, SciPy, Matplotlib, Pandas, OpenCV, Tensorflow, Keras, PyTorch), C++, C, FPGA.
+* Electronics: Arduino, Raspberry Pi, Analog & Digital Electronics.
 
