@@ -9,13 +9,18 @@ redirect_from:
 ---
 
 Recently, I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) with research focused on Fundamental Deep Learning and Compuer Vision Applications to Healthcare and Precision Agriculture.
-My primary research mission is to solve vision based problems like Segmentation, Detection, Depth Estimation, and Classification. 
-
-Moreover, I also investigate topics related to Deep learning on Mobile Devices, Bioinformatics, Optical Flow and Signal Processing.
-
 I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018 batch). 
 
-During this period I won the following Scholarships and Internships Awards.
+## Research Interests
+My primary research mission is to solve vision based problems like Segmentation, Detection, Depth Estimation, and Classification. 
+Moreover, I also investigate topics related to Deep learning on Mobile Devices, Bioinformatics, Optical Flow and Signal Processing.
+
+
+## Honors and Awards
+
+During this period I won the following Awards, Scholarships and Internships.
+
+[Silver Medal, Bahria University Islamabad, Pakistan.]
 
 [Brain Korea (BK21) Scholarship](https://int.korea.edu/kuis/grad/bk21.do)
 
