@@ -3,7 +3,7 @@ title: "Intra-Retinal Layers Segmentation"
 collection: projects
 excerpt: "Deep Learning Based Automated Extraction of Intra-Retinal Layers for Analyzing Retinal Anomalies "
 imageurl: '/images/projects/p3_1.PNG'
-date: 2021-08-01
+date: 2021-07-01
 
 ---
 
@@ -21,4 +21,5 @@ pre-trained model) has been used through Transfer Learning technique. AlexNet wa
 
 
 ## Files
-- [Github]( https://github.com/kabbas570/Data-Science-Challenge-)
+
+- [Bachelor Thesis](/files/BS_Thesis.pdf)
