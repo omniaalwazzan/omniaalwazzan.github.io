@@ -23,7 +23,7 @@ During this period I won the following Awards, Scholarships and Internships.
 
 [Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
 
-[Brain Korea (BK21) Scholarship](https://int.korea.edu/kuis/grad/bk21.do)
+[Brain Korea (BK21) Scholarship](https://bk21four.nrf.re.kr/)
 
 [Bahria University Advanced Merit Scholarship](https://www.bahria.edu.pk/buic/ees/scholarships/)
 
