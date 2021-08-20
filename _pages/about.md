@@ -44,7 +44,7 @@ My research work is funded by National Research Foundation of Korea (NRF), U.S. 
 * Re-arragning my Master's Dissertation <b>"End-to-End Supervised Stereo Imaging-Based Method for Depth Estimation"</b> soon to be published in an SCIE Journal. 
 * The following paper is in review process,:Ilyas T, Mannan Z,<b> Khan A </b>; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
   Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
--------------------------
+
 
 
 ### Site Credits
