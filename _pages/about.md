@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture.
+ I am working as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research] (https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on faical emotions recognitions in visual arts. I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture.
 
 I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). 
 
@@ -41,8 +41,9 @@ My research work is funded by National Research Foundation of Korea (NRF), U.S. 
 
 
 ## Updates
-* Re-arragning my Master's Dissertation <b>"End-to-End Supervised Stereo Imaging-Based Method for Depth Estimation"</b> soon to be published in an SCIE Journal. 
-* The following paper is in review process,:Ilyas T, Mannan Z,<b> Khan A </b>; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
+* <b>The following papers are in the review process <b>
+* <b> Khan A,<b> Ilyas T, Jin H, Lee J, Kim H, Jun Lee S” A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation”, Elsevier Neurocomputing, (Under Review).
+* Ilyas T, Mannan Z,<b> Khan A </b>; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
   Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
 
 
