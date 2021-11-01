@@ -41,8 +41,8 @@ My research work is funded by National Research Foundation of Korea (NRF), U.S. 
 
 
 ## Updates
-* <b>The following papers are in the review process <b>
-* <b> Khan A, <b> Ilyas T, Jin H, Lee J, Kim H, Jun Lee S” A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation”, Elsevier Neurocomputing, (Under Review).
+* <b>The following papers are in the review process </b>
+* <b> Khan A</b> , Ilyas T, Jin H, Lee J, Kim H, Jun Lee S” A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation”, Elsevier Neurocomputing, (Under Review).
 * Ilyas T, Mannan Z,<b> Khan A </b>; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
   Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
 
