@@ -29,7 +29,7 @@ I am working on facial emotion recognition in visual arts. The project is funded
 
 ## Graduate Student Researcher
 -----------------------
-<b>Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea<br>
+**Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea**<br>
 I worked on different projects related to medical image processing and smart farming using state-of-the-art computer vision
 algorithms to solve the problems like classification, object detection, depth estimation, and segmentation for precision agriculture
 and healthcare. The goal of my research is to design efficient deep learning modules for real-time applications by reducing the
