@@ -23,12 +23,13 @@ Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
 CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
 
-**<br>Research Assistant**<br>
-I am working on facial emotion recognition in visual arts. The project is funded by McDonald Institute for Archaeological Research, University of Cambridge. 
+## Research Assistant
 -----------------------
+I am working on facial emotion recognition in visual arts. The project is funded by McDonald Institute for Archaeological Research, University of Cambridge. 
 
-<b>Graduate Student Researcher<br>
-*<b>Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea<br>
+## Graduate Student Researcher
+  -----------------------
+<b>Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea <br>
 I worked on different projects related to medical image processing and smart farming using state-of-the-art computer vision
 algorithms to solve the problems like classification, object detection, depth estimation, and segmentation for precision agriculture
 and healthcare. The goal of my research is to design efficient deep learning modules for real-time applications by reducing the
