@@ -1,35 +1,35 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About me."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidtae at [Queen Mary University of London](https://www.qmul.ac.uk/), and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
+I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
 
-My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html), and [Dr Martin Benning
-](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a prat of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
+My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr Martin Benning
+](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
-## Previos Research and Experience 
+## Previous Research and Experience 
  I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/)
 
-I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture. I was supervsed by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en), and [Professor Yongchae Jeong
+I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Computer Vision to Healthcare and Precision Agriculture. I was supervised by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en) and [Professor Yongchae Jeong
 ](https://scholar.google.co.kr/citations?user=VhkRkVUAAAAJ&hl=en), as well as being part of[Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do).
 
-I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). I worked on Retinal alyers segmentation in my final year and was supervised by [Dr. Taimur Hassan
+I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). I worked on Retinal layers segmentation in my final year and was supervised by [Dr. Taimur Hassan
 ](https://scholar.google.com.pk/citations?user=11mwy0YAAAAJ&hl=en).
 
 ## Research Interests
-* My primary research interest is to solve vision based problems like Segmentation, Detection, Depth Estimation, and Classification. 
-* I also investigate topics related to Deep learning on Mobile Devices, Bioinformatics, Optical Flow and Signal Processing.
+* My primary research interest is to solve vision-based problems like Segmentation, Detection, Depth Estimation, and Classification. 
+* I also investigate topics related to Deep learning in Mobile Devices, Bioinformatics, Optical Flow and Signal Processing.
 
 
 ## Honors and Awards
 
-During this period I won the following Awards, Scholarships and Internships.
+During this period, I won the following Awards, Scholarships and Internships.
 
 [Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
 
@@ -41,21 +41,13 @@ During this period I won the following Awards, Scholarships and Internships.
 
 [Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
 
-[National Institute of Electronics – Islamabad, Pakistan, Internee](http://www.nie.gov.pk/)
+[National Institute of Electronics – Islamabad, Pakistan, Internet](http://www.nie.gov.pk/)
 
 
 
 
 ## Funding
-My research work is funded by National Research Foundation of Korea (NRF), U.S. Air Force Office of Scientific Research, and Agricultural Science and Technology Development Cooperation of Korea.
-
-
-## Updates
-* <b>The following papers are in the review process </b>
-* <b> Khan A</b> , Ilyas T, Jin H, Lee J, Kim H, Jun Lee S” A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation”, Elsevier Neurocomputing, (Under Review).
-* Ilyas T, Mannan Z,<b> Khan A </b>; Sami A, Friso D,” TSFD-Net: Tissue specific feature distillation Network for
-  Nuclei Segmentation and Classification”, Elsevier Neural Networks, (Under Review).
-
+National Research Foundation of Korea funds my research work (NRF), U.S. Air Force Office of Scientific Research, and the Agricultural Science and Technology Development Cooperation of Korea.
 
 
 ### Site Credits
