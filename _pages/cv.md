@@ -16,12 +16,11 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 **PhD in Computer Science and Electronics Engineering**,<br>
 Queen Marry University of London, United Kingdom<br>
 
------------------------
 **Master of Science in Electronics and Information Engineering**,<br>
 Jeonbuk National University, Jeonju, Republic of Korea<br>
 2019-2021<br>
 CGPA: 4.00/4.00<br>
------------------------
+
 **Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
