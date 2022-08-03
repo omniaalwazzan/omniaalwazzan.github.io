@@ -25,7 +25,7 @@ CGPA: 4.00/4.00<br>
 Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
 CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
------------------------
+
 ## Research Assistant
 -----------------------
 **McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
