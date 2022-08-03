@@ -27,9 +27,9 @@ Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
 CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
 
-## Research Assistant, 
-** McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
+## Research Assistant,
 -----------------------
+**McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
 I worked on facial emotion recognition in visual arts. The goals of the project include to gather a small training dataset of sculptures to analyze their emotions, use the existing facial emotion algorithms to assess the emotional potency of art, and come with some unique ideas improve the accuracy for multi-label calssifcation problem.
 
 ## Graduate Student Researcher
@@ -41,6 +41,8 @@ and healthcare. The goal of my research is to design efficient deep learning mod
 parameterized complexity and inference time of the algorithms.
 
 ## Internee 
+-----------------------
+**National Institue of Electronics**<br>
   I worked on the project “Distance estimation between human and camera”. In the first part, a human was detected in live video and then found his distance from the     camera using stereo vision techniques.
 ## Publications
 -----------------------
