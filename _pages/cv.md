@@ -15,7 +15,7 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 -----------------------
 **PhD in Computer Science and Electronics Engineering**,<br>
 Queen Marry University of London, United Kingdom<br>
-PhD Research Topic: AI Based Cardiac Image Computing
+PhD Research Topic: AI Based Cardiac Image Computing<br>
 **Master of Science in Electronics and Information Engineering**,<br>
 Jeonbuk National University, Jeonju, Republic of Korea<br>
 2019-2021<br>
