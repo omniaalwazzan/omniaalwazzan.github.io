@@ -19,7 +19,8 @@ My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profile
 I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture. I was supervsed by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en), and [Professor Yongchae Jeong
 ](https://scholar.google.co.kr/citations?user=VhkRkVUAAAAJ&hl=en), as well as being part of[Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do).
 
-I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). 
+I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). I worked on Retinal alyers segmentation in my final year and was supervised by [Dr. Taimur Hassan
+](https://scholar.google.com.pk/citations?user=11mwy0YAAAAJ&hl=en).
 
 ## Research Interests
 * My primary research interest is to solve vision based problems like Segmentation, Detection, Depth Estimation, and Classification. 
