@@ -22,8 +22,8 @@ Master Research Topic: Applications of Computer Vision to Healthcare and Precisi
 
 **Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
-Bachelor Research Topic: Deep learning-based segmentation of Retinal Layers from OCT images
-Magna Cum Laude Award<br>
+Bachelor Research Topic: Deep learning-based Segmentation of Retinal Layers from OCT images<br>
+Magna Cum Laude Award For Outstanding Academic Achievements<br>
 
 ## Research Assistant
 -----------------------
