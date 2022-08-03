@@ -21,13 +21,13 @@ Queen Marry University of London, United Kingdom<br>
 Jeonbuk National University, Jeonju, Republic of Korea<br>
 2019-2021<br>
 CGPA: 4.00/4.00<br>
-
+-----------------------
 **Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
 2014-2018<br>
 CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
-
-## Research Assistant,
+-----------------------
+## Research Assistant
 -----------------------
 **McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
 I worked on facial emotion recognition in visual arts. The goals of the project include to gather a small training dataset of sculptures to analyze their emotions, use the existing facial emotion algorithms to assess the emotional potency of art, and come with some unique ideas improve the accuracy for multi-label calssifcation problem.
