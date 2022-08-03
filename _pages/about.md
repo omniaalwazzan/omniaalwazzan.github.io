@@ -16,7 +16,7 @@ My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profile
 ## Previos Research and Experience 
  I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group] (https://cambridge-afar.github.io/)
 
-I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture.
+I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture. I was supervsed by [professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en)
 
 I obtained my B.S. in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). 
 
