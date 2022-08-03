@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing with academic partners [Queen Mary University of London](https://www.qmul.ac.uk/), and industrial partners including #NVidia, #Circle Cardiovascular Imaging, and #Conavi Medical.
+I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidtae at [Queen Mary University of London](https://www.qmul.ac.uk/), and with industrial partners including [NVidia], [Circle Cardiovascular Imaging], and [Conavi Medical].
+
 My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html), and [Dr Martin Benning
 ](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a prat of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
+
 ## Previos Research and Experience 
- I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/).
+ I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group] (https://cambridge-afar.github.io/)
 
 I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Compuer Vision to Healthcare and Precision Agriculture.
 
