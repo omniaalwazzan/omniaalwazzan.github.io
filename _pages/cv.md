@@ -15,26 +15,25 @@ Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvE
 -----------------------
 **PhD in Computer Science and Electronics Engineering**,<br>
 Queen Marry University of London, United Kingdom<br>
-PhD Research Topic: AI Based Cardiac Image Computing<br>
+PhD Research Topic: AI-Based Cardiac Image Computing<br>
 **Master of Science in Electronics and Information Engineering**,<br>
 Jeonbuk National University, Jeonju, Republic of Korea<br>
-2019-2021<br>
-CGPA: 4.00/4.00<br>
+Master Research Topic: Applications of Computer Vision to Healthcare and Precision Agriculture <br>
 
 **Bachelor of Science in Electrical and Electronics Engineering**,<br>
 Bahria University Islamabad, Pakistan<br>
-2014-2018<br>
-CGPA: 3.90/4.00,   Magna Cum Laude Award<br>
+Bachelor Research Topic: Deep learning-based segmentation of Retinal Layers from OCT images
+Magna Cum Laude Award<br>
 
 ## Research Assistant
 -----------------------
 **McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
-I worked on facial emotion recognition in visual arts. The goals of the project include to gather a small training dataset of sculptures to analyze their emotions, use the existing facial emotion algorithms to assess the emotional potency of art, and come with some unique ideas improve the accuracy for multi-label calssifcation problem.
+I worked on facial emotion recognition in visual arts. The project's goals include: Gathering a small training dataset of sculptures to analyze their emotions, using the existing facial emotion algorithms to assess the emotional potency of art, and coming up with unique ideas to improve the accuracy of multi-label classification problems.
 
 ## Graduate Student Researcher
 -----------------------
 **Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea**<br>
-I worked on different projects related to medical image processing and smart farming using state-of-the-art computer vision
+I worked on different projects related to medical image processing and intelligent farming using state-of-the-art computer vision
 algorithms to solve the problems like classification, object detection, depth estimation, and segmentation for precision agriculture
 and healthcare. The goal of my research is to design efficient deep learning modules for real-time applications by reducing the
 parameterized complexity and inference time of the algorithms.
@@ -42,7 +41,7 @@ parameterized complexity and inference time of the algorithms.
 ## Internee 
 -----------------------
 **National Institue of Electronics**<br>
-  I worked on the project “Distance estimation between human and camera”. In the first part, a human was detected in live video and then found his distance from the     camera using stereo vision techniques.
+  I worked on the project "Distance estimation between human and camera". In the first part, a human was detected in live video and then found his distance from the camera using stereo vision techniques.
 ## Publications
 -----------------------
   <ul>{% for post in site.publications reversed %}
