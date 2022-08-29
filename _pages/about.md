@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
+My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [ Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Professor Ioannis](https://sites.google.com/view/ioannispatras/home). My research is centred on developing a multi-model fusion model for integrative healthcare. I'm particularly interested in developing novel fusion techniques that combine histological images with gene expression data.
 
-My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr Martin Benning
-](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
 ## Previous Research and Experience 
  * I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/)
