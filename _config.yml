@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Omnia Alwazzan"
 title_separator          : "-"
 name                     : &name "Omnia Alwazzan"
-description              : &description "M.S. in Electrical & Computer Engineering, UCLA, Expected 2021; B.S in Physics, UCLA, 2019; Ethnically Indian, born & raised in Kuwait"
+description              : &description "M.S. in College of Arts & Sciences, Computer Science, GSU, 2019; B.S in Computer Science, KSA, 2012; Ethnically Arab, born & raised in Saudi Arabia"
 url                      : https://omniaalwazzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omniaalwazzan/omniaalwazzan.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &AlwazzanOmnia
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abbas Khan"
+  name             : "Omnia Alwazzan"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant"
-  location         : "University of Cambridge,UK"
+  bio              : "PhD Candidate"
+  location         : "Queen Mary University of London,UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=yrqICr8AAAAJ&hl=en"
-  email            : "kabbas570@jbnu.ac.kr"
+  googlescholar    : 
+  email            : "o.alwazzan@qmul.ac.uk"
   researchgate     :  
   uri              :
   bitbucket        :
