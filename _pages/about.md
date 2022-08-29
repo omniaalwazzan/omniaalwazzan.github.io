@@ -12,12 +12,12 @@ My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary Un
 
 
 ## Previous Experience 
- * Before and after completeing my Master degree, I worked as an undergraduate teaching assistant at [King Abdul Aziz University](https://www.kau.edu.sa/home english.aspx) for computer science-based classes (5-years in total)
+ * Before and after completeing my Master degree, I worked as an undergraduate teaching assistant at [King Abdul Aziz University](https://www.kau.edu.sa/home_english.aspx) for computer science-based classes (5-years in total)
 
 ## Education  
 * I obtained my Master degree from the College of Arts and Sciences, Computer Science School at [Georgia State University (GSU)](https://www.gsu.edu/) in Atlanta, Georgia, United States,(2017-2019). My research was focused in employing deep learning techniqes in image captioning and calssification projects. 
 
-* I recieved my Bachelor Degree in Computer Scinece from [King Abdul Aziz University](https://www.kau.edu.sa/home english.aspx).
+* I recieved my Bachelor Degree in Computer Scinece from [King Abdul Aziz University](https://www.kau.edu.sa/home_english.aspx).
 
 
 ### Site Credits
