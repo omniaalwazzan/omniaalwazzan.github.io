@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abbas Khan"
+title                    : "Omnia Alwazzan"
 title_separator          : "-"
-name                     : &name "Abbas Khan"
+name                     : &name "Omnia Alwazzan"
 description              : &description "M.S. in Electrical & Computer Engineering, UCLA, Expected 2021; B.S in Physics, UCLA, 2019; Ethnically Indian, born & raised in Kuwait"
-url                      : https://kabbas570.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://omniaalwazzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kabbas570/kabbas570.github.io"
+repository               : "omniaalwazzan/omniaalwazzan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
