@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [ Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Professor Ioannis](https://sites.google.com/view/ioannispatras/home). My research is centred on developing a multi-model fusion model for integrative healthcare. I'm particularly interested in developing novel fusion techniques that combine histological images with gene expression data.
+My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [ Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Professor Ioannis](https://sites.google.com/view/ioannispatras/home). My research is centred on developing a deep multi-model fusion model for integrative healthcare. I'm particularly interested in developing novel fusion techniques that combine histological images with gene expression data using Deep Learining (DL) methods. My passion is to dicsover new methodologies that could involve dsitinct modalities and leverge the signigicant information from each model to enhance the desred outcome 
 
 
 ## Previous Experience 
@@ -19,7 +19,9 @@ My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary Un
 
 * I recieved my Bachelor Degree in Computer Scinece from [King Abdul Aziz University](https://www.kau.edu.sa/home_english.aspx).
 
-
+## Research Interest 
+* My passion is to discover new fusion methodologies that can incorporate various modalities and leverage the important information from each model to improve the desired outcome.
+* I am  also looking for novel methods for classifying and segmenting medical images, as well as for localising and recognising objects of interest.
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
