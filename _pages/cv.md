@@ -22,7 +22,7 @@ Georgia State University, Atlanta, Georgia, United States<br>
 Master Research Topic: Image Captioning and Classification Using Deep Learning Approach<br>
 
 **Bachelor of Science in Computer Information System**,<br>
-king Abdulaziz University , Jeddah, Saudi Arabia<br>
+King Abdulaziz University , Jeddah, Saudi Arabia<br>
 Bachelor Research Topic: Wedding Planner Web-based System<br>
 
 ## Skills
