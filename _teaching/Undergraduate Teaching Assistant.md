@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "Courses"
+type: Courses
 
 
 
@@ -15,4 +15,4 @@ type: "Courses"
 * Introduction to E-Business System.
 * Introduction to Database
 * Computing Ethics
-* Principles of Software Engineering"
+* Principles of Software Engineering
