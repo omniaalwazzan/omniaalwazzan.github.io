@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [ Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Professor Ioannis](https://sites.google.com/view/ioannispatras/home). My research is centred on developing a deep multi-model fusion model for integrative healthcare. I'm particularly interested in developing novel fusion techniques that combine histological images with gene expression data using Deep Learining (DL) methods. My primary goal is to discover new deep learning methodologies that could involve distinct modalities and leverage the significant information from each model to enhance the desired outcome 
+My name is Omnia Alwazzan. I am a computer science PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [ Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Professor Ioannis Patras](https://sites.google.com/view/ioannispatras/home). My research is centred on developing a deep multi-model fusion model for integrative healthcare. I'm particularly interested in developing novel fusion techniques that combine histological images with gene expression data using Deep Learining (DL) methods. My primary goal is to discover new deep learning methodologies that could involve distinct modalities and leverage the significant information from each model to enhance the desired outcome 
 
 
 ## Previous Experience 
