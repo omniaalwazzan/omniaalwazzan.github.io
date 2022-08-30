@@ -2,7 +2,7 @@
 title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate Courses"
-permalink: /teaching/Undergraduate Teaching Assistant
+permalink: /teaching/Undergraduate_Teaching
 date: 2013-2016
 location: " King Abdul Aziz University, Jeddah, Saudi Arabia"
 ---
