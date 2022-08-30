@@ -2,13 +2,10 @@
 title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "Courses"
-permalink: /teaching/
-author_profile: true
-
----
-
-
-- Fundamental of Data Network.#
+permalink: /teaching/Undergraduate Teaching Assistant
+date: 2015-01-01
+location: "
+- Fundamental of Data Network.
 - Principle of Operating System.
 - Introduction to Software Management System.
 - Internet Application and Web Programing.
@@ -17,5 +14,5 @@ author_profile: true
 - Introduction to E-Business System.
 - Introduction to Database
 - Computing Ethics
-- Principles of Software Engineering
-
+- Principles of Software Engineering"
+---
