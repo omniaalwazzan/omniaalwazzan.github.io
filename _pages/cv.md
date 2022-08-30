@@ -9,49 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my [CV here](https://drive.google.com/file/d/1RUT6KXiYYbndvvEK6RYPvRp7BhS2LX1Q/view?usp=sharing)
+Download a copy of my [CV here](https://jeddahu-my.sharepoint.com/:b:/g/personal/04102743_uj_edu_sa/ET5y0uE5KopJi73TdGUE6xoBG5P_200pa9FP1DfrruCLCg?e=jUUxCa)
 
 ## Education
 -----------------------
 **PhD in Computer Science and Electronics Engineering**,<br>
 Queen Marry University of London, United Kingdom<br>
-PhD Research Topic: AI-Based Cardiac Image Computing<br>
+PhD Research Topic: Deep Multi-modality Fusion for Integrative Healthcare<br>
 
-**Master of Science in Electronics and Information Engineering**,<br>
-Jeonbuk National University, Jeonju, Republic of Korea<br>
-Master Research Topic: Applications of Computer Vision to Healthcare and Precision Agriculture <br>
+**Master of Science in Computer Science**,<br>
+Georgia State University, Atlanta, Georgia, United States<br>
+Master Research Topic: Image Captioning and Classification Using Deep Learning Approach<br>
 
-**Bachelor of Science in Electrical and Electronics Engineering**,<br>
-Bahria University Islamabad, Pakistan<br>
-Bachelor Research Topic: Deep learning-based Segmentation of Retinal Layers from OCT images<br>
-Magna Cum Laude Award For Outstanding Academic Achievements<br>
-
-## Research Assistant
------------------------
-**McDonald Institute for Archaeological Research, University of Cambridge, United Kingdom**<br>
-I worked on facial emotion recognition in visual arts. The project's goals include: Gathering a small training dataset of sculptures to analyze their emotions, using the existing facial emotion algorithms to assess the emotional potency of art, and coming up with unique ideas to improve the accuracy of multi-label classification problems.
-
-## Graduate Student Researcher
------------------------
-**Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea**<br>
-I worked on different projects related to medical image processing and intelligent farming using state-of-the-art computer vision
-algorithms to solve the problems like classification, object detection, depth estimation, and segmentation for precision agriculture
-and healthcare. The goal of my research is to design efficient deep learning modules for real-time applications by reducing the
-parameterized complexity and inference time of the algorithms.
-
-## Internee 
------------------------
-**National Institue of Electronics**<br>
-  I worked on the project "Distance estimation between human and camera". In the first part, a human was detected in live video and then found his distance from the camera using stereo vision techniques.
-## Publications
------------------------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    
+**Bachelor of Science in Computer Information System**,<br>
+king Abdulaziz University , Jeddah, Saudi Arabia<br>
+Bachelor Research Topic: Wedding Planner Web-based System<br>
 
 ## Skills
 -----------------------
-* Programming: MATLAB, Python (NumPy, SciPy, Matplotlib, Pandas, OpenCV, Tensorflow, Keras, PyTorch), C++, C, FPGA.
-* Electronics: Arduino, Raspberry Pi, Analog & Digital Electronics.
+* Programming: PHP, JavaScript, HTML, SQL, Python, MATLAB.
+* Technologies/Environment: Windows, Linux, GPU cluster programming
+
 
