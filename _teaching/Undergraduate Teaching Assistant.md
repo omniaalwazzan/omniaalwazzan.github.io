@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "Courses"
+type: "Undergraduate Courses"
 permalink: /teaching/Undergraduate Teaching Assistant
 date: 2013-2016
 location: " King Abdul Aziz University, Jeddah, Saudi Arabia"
