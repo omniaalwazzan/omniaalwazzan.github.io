@@ -3,9 +3,6 @@ title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: Courses
 
-
-
----
 * Fundamental of Data Network.
 * Principle of Operating System.
 * Introduction to Software Management System.
@@ -16,3 +13,7 @@ type: Courses
 * Introduction to Database
 * Computing Ethics
 * Principles of Software Engineering
+
+
+---
+
