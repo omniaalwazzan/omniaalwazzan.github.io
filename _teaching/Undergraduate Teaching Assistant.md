@@ -2,7 +2,7 @@
 title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: ": 
-## Tought Courses: 
+
 * Fundamental of Data Network.
 * Principle of Operating System.
 *  Introduction to Software Management System.
