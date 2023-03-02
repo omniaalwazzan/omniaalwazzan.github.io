@@ -220,13 +220,13 @@ defaults:
       comments: true
    _publications
   #- scope:
-      #path: ""
+      path: ""
       type: publications
-    #values:
-      #layout: single
-      #author_profile: true
-      #share: true
-      #comments: true
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _projects
   #- scope:
       #path: ""
