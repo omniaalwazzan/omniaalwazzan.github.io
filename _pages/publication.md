@@ -6,8 +6,8 @@ excerpt: "Multimodal Fusion"
 date: 2023-01-23
 venue: 'IEEE International Symposium on Biomedical Imaging (ISBI) 2023'
 imageurl: 'https://github.com/omniaalwazzan/MOAB/blob/main/MOAB_fusion.PNG'
-paperurl: 'https://www.eecs.qmul.ac.uk/~gslabaugh/publications/AlwazzanISBI2023.pdf' 
-link: 'https://www.eecs.qmul.ac.uk/~gslabaugh/publications/AlwazzanISBI2023.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10230698' 
+link: 'https://ieeexplore.ieee.org/document/10230698'
 citation: 
 ---
 <center><img src = 'https://github.com/omniaalwazzan/MOAB/blob/main/MOAB_fusion.PNG'></center>
