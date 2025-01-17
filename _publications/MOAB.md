@@ -2,12 +2,12 @@
 title: "MOAB: Multi-Modal Outer Arithmetic Block for Fusion of Histopathological Images and Genetic Data for Brain Tumor Grading"
 date: 2023-01-23
 collection: publications
-excerpt: " Multimodal fusion; Smart farming; Outer arithmetic fusion; Cancer grade classification; Channel fusion"
+excerpt: " Multimodal fusion; Outer arithmetic fusion; Cancer grade classification; Channel fusion"
 venue: IEEE International Symposium on Biomedical Imaging (ISBI) 2023
 imageurl: '/images/publications/MOAB_fusion.PNG'
 
 ---
-<center><img src='/images/publications/CED.PNG' alt='CAMS-Net Architecture' style="width:80%;"></center>
+<center><img src='/images/publications/MOAB_fusion' alt='MOAB Fusion Pipeline' style="width:80%;"></center>
 ## Our Contributions
 - We introduce a novel Multi-modal Outer Arithmetic Block(MOAB) that fuses latent representations of different modalities using arithmetic operations.
 - We demonstrate MOAB’s ability to capture rich representations of fused data in a brain cancer application using a histology image and genetic data. Our method outperforms the previous
