@@ -8,6 +8,7 @@ imageurl: "/images/publications/MOAB_fusion.PNG"
 ---
 <center><img src="/images/publications/MOAB_fusion.PNG"></center>
 ## Our Contributions
+
 - We introduce a novel Multi-modal Outer Arithmetic Block(MOAB) that fuses latent representations of different modalities using arithmetic operations.
 - We demonstrate MOAB’s ability to capture rich representations of fused data in a brain cancer application using a histology image and genetic data. Our method outperforms the previous
 state-of-art, by producing more discriminative fused features for classification. This is also demonstrated with t-SNE plots which visualize the improved separability of classes thanks to MOAB.  
