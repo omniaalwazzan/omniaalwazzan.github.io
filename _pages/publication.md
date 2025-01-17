@@ -1,7 +1,7 @@
 ---
 title: "MOAB: Multi-Modal Outer Arithmetic Block for Fusion of Histopathological Images and Genetic Data for Brain Tumor Grading"
 collection: publications
-permalink: /publication/2023-01-23MOAB
+permalink: /publication/MOAB
 excerpt: "Multimodal Fusion"
 date: 2023-01-23
 venue: "IEEE International Symposium on Biomedical Imaging (ISBI) 2023"
