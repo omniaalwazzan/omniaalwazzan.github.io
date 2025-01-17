@@ -4,6 +4,7 @@ date: 2023-01-23
 collection: publications
 excerpt: " Multimodal fusion; Outer arithmetic fusion; Cancer grade classification; Channel fusion"
 venue: IEEE International Symposium on Biomedical Imaging (ISBI) 2023
+award: Oral
 imageurl: "/images/publications/MOAB_fusion.PNG"
 ---
 <center><img src="/images/publications/MOAB_fusion.PNG" alt="MOAB Fusion Pipeline" style="width:80%;"></center>
