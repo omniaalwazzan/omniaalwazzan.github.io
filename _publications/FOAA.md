@@ -4,6 +4,7 @@ date: 2024-05-27
 collection: publications
 excerpt: " Multimodal fusion; Outer arithmetic Flattened Attention; Tumor classification; Self-Attention; Cross-Attention"
 venue: IEEE International Symposium on Biomedical Imaging (ISBI) 2024
+award: Oral 
 imageurl: "/images/publications/FOAA_pipline.png"
 ---
 <center><img src="/images/publications/FOAA_pipline.png" alt="FOAA Fusion Pipeline" style="width:80%;"></center>
