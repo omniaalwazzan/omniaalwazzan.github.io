@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my [CV here](https://jeddahu-my.sharepoint.com/my?id=%2Fpersonal%2F04102743%5Fuj%5Fedu%5Fsa%2FDocuments%2FOmniaCV%5FLaTeX%2Epdf&parent=%2Fpersonal%2F04102743%5Fuj%5Fedu%5Fsa%2FDocuments)
+Download a copy of my [CV here](https://raw.githubusercontent.com/omniaalwazzan/omniaalwazzan.github.io/master/files/OmniaCV_LaTeX.pdf)
 
 ## Education
 -----------------------
