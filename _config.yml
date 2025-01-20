@@ -84,7 +84,7 @@ author:
   avatar           : "githubProfile.JPG"
   bio              : "PhD Candidate"
   location         : "Queen Mary University of London, UK"
-  employer         : "https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/omnia-alwazzan.html"
+  employer         : #"https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/omnia-alwazzan.html"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CBV1SV0AAAAJ&hl=en"
   email            : "o.alwazzan@qmul.ac.uk"
