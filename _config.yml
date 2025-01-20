@@ -84,11 +84,11 @@ author:
   avatar           : "githubProfile.JPG"
   bio              : "PhD Candidate"
   location         : "Queen Mary University of London, UK"
-  employer         :
+  employer         : "https://www.qmul.ac.uk/deri/deri-people/deri-students/profiles-/omnia-alwazzan.html"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=CBV1SV0AAAAJ&hl=en"
   email            : "o.alwazzan@qmul.ac.uk"
-  researchgate     :  
+  researchgate     : "https://www.researchgate.net/profile/Omnia-Alwazzan"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/omnia-alwazzan-b0038196/"
-  orcid            : #"https://orcid.org/0000-0001-7416-1622"
+  orcid            : "https://orcid.org/0000-0001-7416-1622"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
