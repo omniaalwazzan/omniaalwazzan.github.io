@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my [CV here](https://jeddahu-my.sharepoint.com/:b:/g/personal/04102743_uj_edu_sa/ET5y0uE5KopJi73TdGUE6xoBG5P_200pa9FP1DfrruCLCg?e=jUUxCa)
+Download a copy of my [CV here](https://jeddahu-my.sharepoint.com/my?id=%2Fpersonal%2F04102743%5Fuj%5Fedu%5Fsa%2FDocuments%2FOmniaCV%5FLaTeX%2Epdf&parent=%2Fpersonal%2F04102743%5Fuj%5Fedu%5Fsa%2FDocuments)
 
 ## Education
 -----------------------
